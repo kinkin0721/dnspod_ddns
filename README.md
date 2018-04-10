@@ -1,3 +1,5 @@
+修改了 https://github.com/leeyiw/dnspod_ddns.git 的dnspod_ddns的部分代码和config，将config改成json，可一次获取多个ip，增加获取内网ip功能。
+
 Introduction
 ============
 
