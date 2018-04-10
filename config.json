@@ -1,0 +1,10 @@
+{
+    "LOGIN_EMAIL": "你的dnspod账号",
+    "LOGIN_PASSWORD": "你的dnspod密码",
+    "DOMAIN": "主域名",
+    "SUB_DOMAIN":
+    [
+        {"name": "次级域名1", "isLocal": "False取外网ip"},
+        {"name": "次级域名2", "isLocal": "True取内网ip"}
+    ]
+}
