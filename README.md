@@ -13,7 +13,7 @@ $ cd dnspod_ddns
 $ sudo pip install -r requirements.txt
 ```
 
-Then edit `config.py`, replace the value of `LOGIN_EMAIL`, `LOGIN_PASSWORD`, `SUB_DOMAIN`, `DOMAIN` with your DNSPod account and the domain you want to dynamic update.
+Then edit `config.json`, replace the value of `LOGIN_EMAIL`, `LOGIN_PASSWORD`, `SUB_DOMAIN`, `DOMAIN` with your DNSPod account and the domain you want to dynamic update.
 
 Usage
 =====
