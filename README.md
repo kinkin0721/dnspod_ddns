@@ -10,7 +10,7 @@ Installing
 
 Clone the repo with `git` and install the requirements with `pip`:
 ```
-$ git clone https://github.com/leeyiw/dnspod_ddns.git
+$ git@github.com:kinkin0721/dnspod_ddns.git
 $ cd dnspod_ddns
 $ sudo pip install -r requirements.txt
 ```
